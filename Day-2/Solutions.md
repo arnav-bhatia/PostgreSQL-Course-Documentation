@@ -1,6 +1,6 @@
 ## SQL Solutions
 
-![Challenges for Day 2](Day-2/Challenges-Day2.png)
+![Challenges for Day 2](Challenges-Day2.png)
 
 ```sql
 SELECT
