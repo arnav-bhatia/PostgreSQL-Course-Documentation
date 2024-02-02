@@ -1,6 +1,6 @@
 ## SQL Solutions
 
-![Challenges for Day 1](Day-1/Challenges-Day1.png)
+![Challenges for Day 1](Challenges-Day1.png)
 
 ```sql
 SELECT DISTINCT
