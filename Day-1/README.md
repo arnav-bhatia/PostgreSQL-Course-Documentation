@@ -1,4 +1,4 @@
-I learnt the following concepts today
+Concepts covered today:
 
 ```sql
 
