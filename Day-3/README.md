@@ -1,4 +1,4 @@
-## SQL Solution
+## SQL Solution for Day 3 Challenge
 
 ![Challenge for Day 3](Challenge-Day3.png)
 
