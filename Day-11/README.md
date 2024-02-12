@@ -1,4 +1,4 @@
-## SQL Solution for Day 10 Challenge
+## SQL Solution for Day 11 Challenge
 
 <img src="/Day-11/Challenge-Day11.png">
 
